@@ -49,7 +49,7 @@ pub const TEST_CASES: &[TestCase] = &[TestCase {
     atlas: "dragon.atlas",
     binary: "dragon-ess.skel",
     json: "dragon-ess.json",
-    path: "spine-sys/external/examples/dragon/export",
+    path: "spine-example/examples/dragon/export",
 }];
 
 #[cfg_attr(all(target_arch = "wasm32", feature = "web-sys"), wasm_bindgen(start))]

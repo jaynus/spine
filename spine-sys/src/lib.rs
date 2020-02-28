@@ -104,6 +104,6 @@ pub(crate) mod tests {
         atlas: "dragon.atlas",
         binary: "dragon-ess.skel",
         json: "dragon-ess.json",
-        path: "external/examples/dragon/export",
+        path: "../spine-example/examples/dragon/export",
     }];
 }

@@ -1,6 +1,6 @@
 use std::path::Path;
 
-const SPINE_SRC_PATH: &str = "spine-sys/external/spine-c/spine-c";
+const SPINE_SRC_PATH: &str = "external/spine-c/spine-c";
 
 fn generate() {
     let out_path = std::env::current_dir().unwrap();

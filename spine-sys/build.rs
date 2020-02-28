@@ -1,6 +1,6 @@
 use std::path::Path;
 
-const SPINE_SRC_PATH: &str = "external/spine-c/spine-c";
+const SPINE_SRC_PATH: &str = "spine-c";
 
 fn main() {
     let src = Path::new(SPINE_SRC_PATH).join("src").join("spine");
