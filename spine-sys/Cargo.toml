@@ -1,0 +1,17 @@
+[package]
+name = "spine-sys"
+version = "0.1.0"
+authors = ["Walter Pearce <jaynus@gmail.com>"]
+edition = "2018"
+description = "Placeholder for spine workspace"
+license = "MIT"
+repository = "https://github.com/jaynus/spine"
+
+[dependencies]
+failure = "0.1"
+
+[build-dependencies]
+bindgen = "0.53"
+cmake = "0.1"
+failure = "0.1"
+
