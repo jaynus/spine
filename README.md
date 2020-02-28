@@ -7,6 +7,8 @@
 [Docs badge]: https://img.shields.io/badge/docs.rs-rustdoc-green
 [docs.rs]: https://docs.rs/spine
 
+![Spine rendering in glow](https://github.com/jaynus/spine/raw/master/spine-example/examples/spine_glow.gif)
+
 # Rust Spine Runtime
 
 These are high level, safe Rust bindings for the [spine-c](https://github.com/EsotericSoftware/spine-runtimes/) runtime 
