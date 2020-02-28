@@ -1,0 +1,3 @@
+[submodule "spine-sys/external"]
+	path = spine-sys/external
+	url = https://github.com/EsotericSoftware/spine-runtimes/
